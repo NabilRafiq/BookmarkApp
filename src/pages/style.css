@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    width: 80%;
+    text-align: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.card-container > .card{
+    color: white;
+    display: inline-block;
+    box-shadow: 0 0 10px grey;
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+}
+

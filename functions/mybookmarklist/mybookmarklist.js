@@ -50,7 +50,7 @@ const resolvers = {
 
         const result = await adminClient.query(
           q.Create(
-            q.Collection('bootcamp2020project12d'),
+            q.Collection('bookmarks'),
             {
               data: {
                 title,
